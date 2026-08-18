@@ -1,0 +1,4 @@
+s1 = ("Hello World")
+print(s1)
+print(id(s1))
+print(s1.swapcase())
